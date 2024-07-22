@@ -1,0 +1,19 @@
+body {
+    background-color: #FFFCC9;
+    color: black;
+    padding: 20px;
+    /* text-align: center; */
+}
+
+#reviews {
+    clear: both;
+}
+
+#name {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+#content {
+    font-style: italic;
+}
